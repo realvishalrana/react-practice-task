@@ -1,0 +1,7 @@
+.active {
+  color: red;
+}
+
+.hidden {
+  visibility: hidden;
+}
